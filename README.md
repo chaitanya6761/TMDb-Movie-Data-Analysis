@@ -23,3 +23,5 @@
 - Effect Of Vote Count On Popularity
 - Timeline Of Number Of Movies Made Every Year
 - Timeline Of Total Budget And Revenue Made Every Year
+
+### [View Report](https://htmlpreview.github.io/?https://github.com/chaitanya6761/TMDb-Movie-Data-Analysis/blob/master/tmdb_movie_analysis.html).
